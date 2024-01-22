@@ -1,7 +1,5 @@
 # Super Quiz Angular
 
-Blog criado com Angular na versão 17.1.0
-
 ## Descrição
 
 Este projeto é um quiz interativo desenvolvido com Angular 17.1.0, como parte de um desafio para o Banco Pan em colaboração com a instituição de ensino DIO. O quiz permite aos usuários responderem a uma série de perguntas e, com base em suas respostas, determina se eles seriam mais propensos a ser um herói ou um vilão. O projeto é uma excelente maneira de explorar os conceitos de componentes, serviços e roteamento em Angular.
@@ -19,7 +17,7 @@ Este projeto é um quiz interativo desenvolvido com Angular 17.1.0, como parte d
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/victorgomesl/angular-meta-blog.git
+git clone https://github.com/victorgomesl/angular-buzzfeed.git
 ```
 
 2. Navegue até o diretório do projeto:
