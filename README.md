@@ -8,6 +8,8 @@ Este projeto é um quiz interativo desenvolvido com Angular 17.1.0, como parte d
 
 ![Super Quiz Preview](https://i.imgur.com/sJdyPJA.png)
 
+Live: https://angular-buzzfeed-six.vercel.app/
+
 
 ## Pré-requisitos
 
