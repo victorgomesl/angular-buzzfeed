@@ -1,0 +1,111 @@
+{
+  "title": "Você seria um herói ou vilão?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual super poder você escolheria?",
+      "options": [
+        {"id": 1, "name": "Raios-Lasers", "alias": "A"},
+        {"id": 2, "name": "Voar", "alias": "B"},
+        {"id": 3, "name": "Explodir coisas", "alias": "A"},
+        {"id": 4, "name": "Curar feridas", "alias": "B"},
+        {"id": 5, "name": "Soltar fogo pelas mãos", "alias": "A"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você salvaria primeiro?",
+      "options": [
+        {"id": 1, "name": "Crianças", "alias": "B"},
+        {"id": 2, "name": "Idosos", "alias": "B"},
+        {"id": 3, "name": "Não saberia escolher", "alias": "A"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual a sua maior preocupação ao enfrentar outro super ser?",
+      "options": [
+        {"id": 1, "name": "Não destruir prédios", "alias": "B"},
+        {"id": 2, "name": "Socar a cara do inimigo", "alias": "A"},
+        {"id": 3, "name": "Não sujar meu traje", "alias": "A"},
+        {"id": 4, "name": "Não deixar ninguém se ferir", "alias": "B"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual o seu maior foco?",
+      "options": [
+        {"id": 1, "name": "Ficar rico com poderes", "alias": "A"},
+        {"id": 2, "name": "Salvar a cidade", "alias": "B"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual o seu apelido de super ser?",
+      "options": [
+        {"id": 1, "name": "O Terrível", "alias": "A"},
+        {"id": 2, "name": "Amigo da vizinhança", "alias": "B"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Como você lida com seus inimigos?",
+      "options": [
+        {"id": 1, "name": "Derrotá-los a qualquer custo", "alias": "A"},
+        {"id": 2, "name": "Conversar para encontrar uma solução pacífica", "alias": "B"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "O que você faz em seu tempo livre?",
+      "options": [
+        {"id": 1, "name": "Planejar como aumentar seus poderes", "alias": "A"},
+        {"id": 2, "name": "Ajudar na comunidade local", "alias": "B"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual é sua atitude em relação ao dinheiro?",
+      "options": [
+        {"id": 1, "name": "Usá-lo para financiar seus planos malignos", "alias": "A"},
+        {"id": 2, "name": "Doar para caridade", "alias": "B"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Qual é seu método preferido de transporte?",
+      "options": [
+        {"id": 1, "name": "Um veículo sinistro e intimidador", "alias": "A"},
+        {"id": 2, "name": "Algo prático e amigável ao meio ambiente", "alias": "B"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Como você reage sob pressão?",
+      "options": [
+        {"id": 1, "name": "Fica agressivo e impetuoso", "alias": "A"},
+        {"id": 2, "name": "Mantém a calma e pensa estrategicamente", "alias": "B"}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Qual é sua visão sobre a justiça?",
+      "options": [
+        {"id": 1, "name": "Os fins justificam os meios", "alias": "A"},
+        {"id": 2, "name": "Justiça deve ser imparcial e justa para todos", "alias": "B"}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Como você prefere trabalhar?",
+      "options": [
+        {"id": 1, "name": "Sozinho, confiando apenas em si mesmo", "alias": "A"},
+        {"id": 2, "name": "Em equipe, valorizando a colaboração", "alias": "B"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super herói!"
+  }
+}
